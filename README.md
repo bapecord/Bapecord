@@ -5,7 +5,8 @@
 
 The cutest Discord client mod
 
-![](https://github.com/user-attachments/assets/3fac98c0-c411-4d2a-97a3-13b7da8687a2)
+<img width="1536" height="1024" alt="bapcordbanner" src="https://github.com/user-attachments/assets/49e0f1d1-bae7-45a0-819a-134a436b01fa" />
+
 
 ## Features
 
