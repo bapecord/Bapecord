@@ -18,7 +18,7 @@ The most optimized swagged Discord client mod
 -   Privacy friendly: blocks Discord analytics & crash reporting out of the box and has no telemetry
 -   Maintained very actively, broken plugins are usually fixed within 12 hours
 -   Settings sync: Keep your plugins and their settings synchronised between devices / apps (optional)
-## Installing Equicord Devbuild
+## Installing Bapecord Devbuild
 
 ### Dependencies
 
