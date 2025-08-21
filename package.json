@@ -3,9 +3,9 @@
     "private": "true",
     "version": "1.12.12",
     "description": "The most optimized swaggaged Discord client",
-    "homepage": "https://github.com/Vendicated/Vencord#readme",
+    "homepage": "https://github.com/bapecord/Bapecord#readme",
     "bugs": {
-        "url": "https://github.com/Vendicated/Vencord/issues"
+        "url": "https://github.com/bapecord/Bapecord"
     },
     "repository": {
         "type": "git",
