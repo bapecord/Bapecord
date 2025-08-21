@@ -32,9 +32,9 @@ Install `pnpm`:
 npm i -g pnpm
 ```
 
-> :exclamation: **IMPORTANT** Make sure you aren't using an admin/root terminal from here onwards. It **will** mess up your Discord/Equicord instance and you **will** most likely have to reinstall.
+> :exclamation: **IMPORTANT** Make sure you aren't using an admin/root terminal from here onwards. It **will** mess up your Discord/Bapecord instance and you **will** most likely have to reinstall.
 
-Clone Equicord:
+Clone Bapecord:
 
 ```shell
 git clone https://github.com/bapecord/Bapecord
@@ -47,13 +47,13 @@ Install dependencies:
 pnpm install --frozen-lockfile
 ```
 
-Build Equicord:
+Build Bapecord:
 
 ```shell
 pnpm build
 ```
 
-Inject Equicord into your client:
+Inject Bapecord into your client:
 
 ```shell
 pnpm inject
