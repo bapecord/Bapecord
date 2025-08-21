@@ -1,15 +1,15 @@
 {
-    "name": "vencord",
+    "name": "Bapecord",
     "private": "true",
     "version": "1.12.12",
-    "description": "The cutest Discord client mod",
+    "description": "The most optimized swaggaged Discord client",
     "homepage": "https://github.com/Vendicated/Vencord#readme",
     "bugs": {
         "url": "https://github.com/Vendicated/Vencord/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Vendicated/Vencord.git"
+        "url": "git+https://github.com/bapecord/Bapecord.git"
     },
     "license": "GPL-3.0-or-later",
     "author": "Vendicated",
