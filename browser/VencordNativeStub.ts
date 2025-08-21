@@ -57,7 +57,7 @@ window.VencordNative = {
     },
 
     updater: {
-        getRepo: async () => ({ ok: true, value: "https://github.com/Vendicated/Vencord" }),
+        getRepo: async () => ({ ok: true, value: "https://github.com/bapecord/Bapecord" }),
         getUpdates: async () => ({ ok: true, value: [] }),
         update: async () => ({ ok: true, value: false }),
         rebuild: async () => ({ ok: true, value: true }),
@@ -105,13 +105,13 @@ window.VencordNative = {
     settings: {
         get: () => {
             try {
-                return JSON.parse(localStorage.getItem("VencordSettings") || "{}");
+                return JSON.parse(localStorage.getItem("BapecordSettings") || "{}");
             } catch (e) {
                 console.error("Failed to parse settings from localStorage: ", e);
                 return {};
             }
         },
-        set: async (s: Settings) => localStorage.setItem("VencordSettings", JSON.stringify(s)),
+        set: async (s: Settings) => localStorage.setItem("BapeSettings", JSON.stringify(s)),
         openFolder: async () => Promise.reject("settings:openFolder is not supported on web"),
     },
 
