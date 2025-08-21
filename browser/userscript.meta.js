@@ -2,10 +2,10 @@
 // @name            Bapecord
 // @description     A Discord client mod - Web version
 // @version         %version%
-// @author          Vendicated (https://github.com/Vendicated)
+// @author          Bapecord (https://github.com/bapecord/Bapecord)
 // @namespace       https://github.com/bapecord/Bapecord
 // @supportURL      https://github.com/bapecord/Bapecord
-// @icon            https://files.catbox.moe/jxjzjl.png
+// @icon            https://github.com/user-attachments/assets/a81f4d1a-382b-4828-a6a3-fc077ca1a5e7
 // @license         GPL-3.0
 // @match           *://*.discord.com/*
 // @grant           GM_xmlhttpRequest
