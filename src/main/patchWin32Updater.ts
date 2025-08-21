@@ -53,7 +53,7 @@ function patchLatest() {
 
         if (!existsSync(app) || statSync(app).isDirectory()) return;
 
-        console.info("[Vencord] Detected Host Update. Repatching...");
+        console.info("[Bapecord] Detected Host Update. Repatching...");
 
         renameSync(app, _app);
         mkdirSync(app);
