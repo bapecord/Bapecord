@@ -4,7 +4,7 @@ Bapecord is a fork of [Vencord](https://github.com/Vendicated/Vencord) — the m
 
 The most optimized swagged Discord client mod
 
-![](https://files.catbox.moe/wlmmk5.png)
+![] https://files.catbox.moe/wlmmk5.png
 
 ## Features
 
